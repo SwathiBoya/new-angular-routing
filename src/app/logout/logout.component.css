@@ -1,0 +1,17 @@
+.logout-heading{
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    margin: 0 auto;
+}
+.homeBtn{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0 auto;
+    padding: 10px 15px 10px 15px;
+    background: #444;
+    color: #fff;
+}

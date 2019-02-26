@@ -1,0 +1,71 @@
+    div#container {
+    padding:2px;
+    background:#c5983a;
+    display: flex;
+    height: 10%;
+    }
+    div#container2 {
+    padding:2px;
+    display: flex;
+    height: 10%;
+    background-color: #00000080;
+    }
+    .leftDiv {
+    width:20%;
+    padding:0px;
+    margin-left: 10px;
+    }
+    .rightDiv {
+    width:60%;
+    padding:10px;
+    margin-left: 10px;
+    }
+    .loginDiv{
+    width:20%;
+    padding:10px;
+    margin-left: 10px;
+    }
+    .loginBtn{
+    width: 36%;
+    height: 100%;
+    float: right;
+    background-color: #000;
+    transition: 0.3s;
+    color: #fff;
+    }
+    .loginBtn:hover{
+    box-shadow:0 2px 3px 0 rgba(0,0,0,0.2);
+    }
+    .welcomDiv{
+    width:100%;
+    padding:8px;
+    margin-left: 10px;
+    }
+    .footerDiv {
+    padding:3px;
+    background:#9e7c36;
+    display: flex;
+    height: 10%;
+    color: #fff;
+    }
+    .block1 {
+    width: 15%;
+    text-align: center;
+    float: left;
+    border-right: 1px solid;
+    }
+    .block2 {
+    width: 70%;
+    text-align: center;
+    float: left;
+    border-right: 1px solid;
+    }
+    .block3 {
+    width: 15%;
+    text-align: center;
+    float: left;
+    }
+    .carousel-inner>.item>a>img, .carousel-inner>.item>img {
+        line-height: 1;
+        width: 100%;
+    }
